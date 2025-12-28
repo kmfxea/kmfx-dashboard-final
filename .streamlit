@@ -1,0 +1,14 @@
+KEEP_ALIVE = true
+
+[theme]
+primaryColor = "#fb923c"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#172033"
+textColor = "#e2e8f0"
+font = "sans serif"
+
+[theme.light]
+primaryColor = "#d97706"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f4f6"
+textColor = "#1e293b"
